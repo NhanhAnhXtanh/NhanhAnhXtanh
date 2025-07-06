@@ -46,4 +46,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
+<style>
+  div[align="center"] img {
+    height: 40px !important;
+    width: 40px !important;
+    max-width: 40px !important;
+    max-height: 40px !important;
+    box-sizing: content-box;
+  }
+</style>
 ###
